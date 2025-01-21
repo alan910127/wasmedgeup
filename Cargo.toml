@@ -1,0 +1,11 @@
+[package]
+name = "wasmedgeup"
+version = "0.1.0"
+edition = "2021"
+authors = ["hydai <hydai@secondstate.io>"]
+description = "An installer for the Wasmedge runtime and plugins."
+homepage = "https://github.com/WasmEdge/wasmedgeup"
+repository = "https://github.com/WasmEdge/wasmedgeup"
+license = "Apache-2.0"
+
+[dependencies]
